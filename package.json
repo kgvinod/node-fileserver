@@ -1,0 +1,25 @@
+{
+  "name": "node-fileserver",
+  "version": "1.0.0",
+  "description": "A complete file server using node and express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kgvinod/node-fileserver.git"
+  },
+  "keywords": [
+    "file-server"
+  ],
+  "author": "Vinod Gopalan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kgvinod/node-fileserver/issues"
+  },
+  "homepage": "https://github.com/kgvinod/node-fileserver#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
